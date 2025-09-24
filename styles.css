@@ -22,7 +22,7 @@ blockquote {
 }
 
 header{
-    background-color: lightblue;
+    background-color: rgb(251, 0, 255);
 }
 
 form{
@@ -33,7 +33,7 @@ form{
 }
 
 footer{
-    background-color: lightblue;
+    background-color: rgb(217, 0, 255);
 }
 
 #BTH a:hover {
